@@ -1,0 +1,27 @@
+For n = 3, below inputs were used.
+3 1 8 2
+3 4 7 1
+3 9 8 7
+3 7 5 6
+3 6 7 1
+
+For n = 4, below inputs were used.
+4 3 5 7 1
+4 2 1 6 5
+4 6 5 4 3
+4 6 3 2 7
+4 2 1 9 3
+
+For n = 5, below inputs were used.
+5 1 2 5 6 3
+5 2 1 8 9 7
+5 9 5 8 7 1
+5 3 7 6 8 9
+5 8 6 4 1 2
+
+For n = 6, below inputs were used.
+6 1 9 8 2 4 5
+6 1 2 4 3 6 7
+6 1 8 6 7 5 9
+6 6 4 2 3 5 7
+6 7 6 9 8 5 4
